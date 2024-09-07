@@ -1,0 +1,7 @@
+{
+  "API_BASE_URL": "https://localhost/api/v2",
+  "OAUTH_AUTHORITY_URL": "https://localhost/api/o",
+  "OAUTH_CLIENT_ID": "5ed9b33c-78d9-4e40-b19a-b96e7ffceac4",
+  "OAUTH_REDIRECT_URI": "https://localhost/new-admin/login/logged",
+  "OAUTH_POST_REDIRECT_URI": "https://localhost/new-admin"
+}

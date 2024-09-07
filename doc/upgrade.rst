@@ -648,7 +648,7 @@ The following modifications must be applied to the :file:`settings.py` file:
                    'modoboa.core.context_processors.top_notifications',
                    'modoboa.core.context_processors.new_admin_url',
                ],
-               'debug': False,
+               'debug': True,
            },
        },
    ]
